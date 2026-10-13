@@ -31,7 +31,7 @@ Both programs are used daily in my billing job.
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-1f6feb?style=for-the-badge)
 ![pdfplumber](https://img.shields.io/badge/pdfplumber-PDF-d73a49?style=for-the-badge)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![SMTP / IMAP](https://img.shields.io/badge/SMTP%20%2F%20IMAP-EA4335?style=for-the-badge&logo=gma
+![SMTP / IMAP](https://img.shields.io/badge/SMTP-IMAP-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
