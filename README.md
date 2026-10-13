@@ -39,7 +39,7 @@ Both programs are used daily in my billing job.
 
 ## 📚 Formação / Education
 
-- 🎓 **PT:** Engenharia de Software, Unifatecie (EAD) | **EN:** Software Engineering, Unifatecie (distance learning)
+- 🎓 **PT:** Engenharia de Software, Unifatecie (EAD), cursando o 1º ano | **EN:** Software Engineering, Unifatecie (distance learning), currently in the 1st year
 - 🐍 **PT:** Python, SENAI (programa Entra 21) | **EN:** Python, SENAI (Entra 21 program)
 - 🐍 **PT:** Python básico, Fundação Santander | **EN:** Basic Python, Fundação Santander
 
